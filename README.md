@@ -34,14 +34,6 @@ The project was mainly developed through a shared local team setup before being 
 ![Heatmap Demo](assets/team-heatmap.png)
 ![Heatmap Demo](assets/player-heatmap.png)
 
-### Action Spotting / Match Events
-
-![Action Spotting Demo](assets/demo-action-spotting.jpg)
-
-### Player Review / Action Recognition
-
-![Player Review Demo](assets/demo-player-review1.jpg)
-![Player Review Demo](assets/suitable-team-style.jpg)
 
 ---
 
