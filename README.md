@@ -16,8 +16,8 @@ This repository highlights the **AI pipeline only**: models, modules, logic rule
 
 ### Heatmap Generation
 
-![Heatmap Demo](assets/team-heatmap.jpg)
-![Heatmap Demo](assets/player-heatmap.jpg)
+![Heatmap Demo](assets/team-heatmap.png)
+![Heatmap Demo](assets/player-heatmap.png)
 
 ### Action Spotting / Match Events
 
