@@ -5,6 +5,21 @@ Goalithm is an AI-powered football analytics project focused on transforming raw
 This repository highlights the **AI pipeline only**: models, modules, logic rules, video processing, event detection, heatmap generation, action spotting, and generated analysis outputs.
 
 ---
+## My Contribution
+I contributed to the AI/ML pipeline and the integration of football video analysis outputs into the final dashboard workflow.
+
+**My work focused on:**
+
+- Supporting the football video analysis pipeline.
+- Working on player detection, tracking, and movement analysis.
+- Supporting team classification and player/team separation.
+- Generating player and team heatmaps from tracking data.
+- Working on action analysis and match event outputs.
+- Supporting player playing-style and team-style compatibility insights.
+- Integrating AI backend results with the web dashboard.
+- Helping transform raw football videos into tactical and performance insights for coaches, analysts, and scouts.
+### Contribution Note
+The project was mainly developed through a shared local team setup before being organized and uploaded to GitHub. Because of that, the commit history may not fully represent each member’s individual contribution. My contribution above summarizes the actual AI/ML and system integration work I was involved in during the projec
 
 ## Demo
 
